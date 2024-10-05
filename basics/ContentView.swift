@@ -14,6 +14,7 @@ struct ContentView: View {
                 .imageScale(.large)
                 .foregroundStyle(.tint)
             Text("davySorokin!")
+            Text("Rule Change")
         }
         .padding()
     }
